@@ -20,3 +20,4 @@ TraySetIcon  "glue.ico"
 ::w::with
 ::wh::which
 ::yr::year
+::yrs::years
